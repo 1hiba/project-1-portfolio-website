@@ -22,33 +22,38 @@ PART 1: CONTENT (Answer ALL questions)
 --------------------------------------------------
 PART 2: DESIGN (Answer ALL questions)
 
-1. What overall style will best represent you (minimalist, creative, professional, etc.)?
-2. What color scheme will you use and why?
-3. What fonts will you use for headings and body text?
-4. How will your design reflect your personality or field?
-5. What layout will your homepage follow?
-6. How will you organize project sections visually?
-7. Will the site be mobile-friendly? How will you ensure responsiveness?
-8. What visual hierarchy will guide visitors?
-9. How will consistency be maintained across pages?
-10. How will accessibility be considered (contrast, font size, readability)?
-11. Will you use icons, images, or illustrations? Why?
+1. What overall style will best represent you (minimalist, creative, professional, etc.)? I will use a minimalist and professional design style. This approach will create a clean, organized, and modern appearance that allows visitors to focus on my skills, projects, and experience without unnecessary distractions.
+2. What color scheme will you use and why? I will use a neutral color palette consisting of white, dark gray, black, and subtle accent colors such as blue. This color scheme conveys professionalism, simplicity, and trustworthiness while maintaining a modern and visually appealing look.
+3. What fonts will you use for headings and body text? I will use clean, modern sans-serif fonts. For headings, I will use a bold font such as Poppins or Montserrat to create emphasis. For body text, I will use a highly readable font such as Open Sans or Roboto to ensure a comfortable reading experience.
+4. How will your design reflect your personality or field? As an aspiring software engineer, my design will reflect professionalism, attention to detail, and technical expertise. The clean layout and organized structure will demonstrate my ability to create efficient and user-friendly solutions.
+5. What layout will your homepage follow? The homepage will follow a structured layout consisting of a hero section with a professional introduction, a brief summary of my skills, featured projects, and a call-to-action encouraging visitors to view my work or contact me.
+6. How will you organize project sections visually? Projects will be displayed using card-based layouts with project images, titles, brief descriptions, technologies used, and links to view the project or source code. This format makes the information easy to scan and navigate.
+7. Will the site be mobile-friendly? How will you ensure responsiveness? Yes, the website will be mobile-friendly. I will use responsive design techniques such as flexible layouts, scalable images, and media queries to ensure the website functions properly on desktops, tablets, and mobile devices.
+8. What visual hierarchy will guide visitors? The visual hierarchy will prioritize important content through the use of larger headings, contrasting colors, spacing, and strategic placement. Visitors will first see my introduction, followed by my skills, projects, and contact information.
+9. How will consistency be maintained across pages? Consistency will be maintained by using the same color scheme, typography, spacing, navigation structure, button styles, and design elements throughout the website. This will create a cohesive and professional user experience.
+10. How will accessibility be considered (contrast, font size, readability)? Accessibility will be considered by using high-contrast color combinations, readable font sizes, clear navigation, descriptive labels, and sufficient spacing between elements. These choices will help ensure the website is usable for a wide range of users.
+11. Will you use icons, images, or illustrations? Why? Yes, I will use icons, images, and AI-generated visuals created with Canva and AI design tools. Icons will improve navigation and visual clarity, while images and illustrations will make the website more engaging and help showcase projects in a visually appealing way.
 12. What portfolio websites inspired your design?
 
 --------------------------------------------------
 PART 3: INTERACTIVITY (Answer ALL questions)
 
-1. What interactive elements will your site include (navigation menus, buttons, forms)?
-2. Will your site include a contact form? How will it work?
-3. What JavaScript features will you implement?
-4. How will users receive feedback from interactions?
-5. How does interactivity improve the user experience?
+1. What interactive elements will your site include (navigation menus, buttons, forms)? My website will include interactive navigation menus, buttons, project cards, and a contact form. The navigation menu will allow users to easily move between pages, while buttons will provide quick access to projects, my resume, and contact information.
+2. Will your site include a contact form? How will it work? Yes, the website will include a contact form on the Contact page. Visitors will be able to enter their name, email address, and message. After submitting the form, they will receive a confirmation message indicating that their inquiry has been successfully sent.
+3. What JavaScript features will you implement? I will implement JavaScript features such as form validation, smooth scrolling navigation, interactive buttons, and dynamic project displays. These features will improve functionality and create a more engaging user experience.
+4. How will users receive feedback from interactions? Users will receive feedback through confirmation messages, visual button effects, hover animations, and form validation alerts. These responses will help users understand that their actions have been successfully completed and guide them if corrections are needed.
+5. How does interactivity improve the user experience? Interactivity enhances the user experience by making the website more engaging, responsive, and user-friendly. Interactive elements help visitors navigate the site efficiently, access information quickly, and communicate more easily, resulting in a more positive and professional experience.
 
 --------------------------------------------------
 
 	= any external resources used (links)
-  
+
+--------------------------------------------------
+
 	= wireframe design (hand-drawn/computer-aided)
+
+--------------------------------------------------
+
 	= main sections to include:
 		+ project overview
 		+ target audience
