@@ -47,6 +47,10 @@ PART 3: INTERACTIVITY (Answer ALL questions)
 --------------------------------------------------
 
 	= any external resources used (links)
+	https://www.awwwards.com/sites/vectr
+	https://dribbble.com/search/developer-portfolio
+	https://dribbble.com/shots/22149217-Developer-Portfolio-Landing-Page
+	
 
 --------------------------------------------------
 
